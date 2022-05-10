@@ -7,7 +7,7 @@ The Wit COVID bot tells you about the current cases, deaths and recoveries aroun
 
 ## Sample Images
 
-### Image 1
+### <ins>Image 1</ins>
 ![Image-1](/images/image1.jpg)
 
 ### Image 2
